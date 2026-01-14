@@ -1,6 +1,7 @@
 # Aula 03 — Introdução ao Git
 
 ## Objetivos da aula
+
 Ao final desta aula, o aluno deverá ser capaz de:
 - Entender o problema que o Git resolve
 - Explicar o conceito de versionamento
