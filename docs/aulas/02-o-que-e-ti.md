@@ -1,4 +1,4 @@
-# O que é Tecnologia da Informação (TI)?
+# O que é Tecnologia da Informação (TI)
 
 ## Contextualização
 
@@ -7,6 +7,7 @@ Antes de estudar sistemas, redes ou programação, é essencial compreender o co
 ## Objetivos de Aprendizagem
 
 Ao final desta aula, o aluno deverá ser capaz de:
+
 - definir o conceito de TI
 - identificar seus principais elementos
 - compreender sua aplicação no cotidiano
@@ -16,6 +17,7 @@ Ao final desta aula, o aluno deverá ser capaz de:
 Tecnologia da Informação é o conjunto de recursos utilizados para coletar, processar, armazenar e transmitir informações.
 
 Ela envolve:
+
 - hardware
 - software
 - dados
@@ -32,7 +34,8 @@ Serão apresentados os conceitos de hardware e software e suas diferenças.
 
 ---
 
-**Navegação**
+### Navegação
+
 - ⬅️ Aula anterior: [[01-introducao]]
 - ➡️ Próxima aula: [[03-hardware-software]]
 - 📚 Índice: [[00-indice]]

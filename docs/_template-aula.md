@@ -7,6 +7,7 @@ Apresente o tema e explique por que ele é importante dentro do curso.
 ## Objetivos de Aprendizagem
 
 Ao final desta aula, o aluno deverá ser capaz de:
+
 - compreender ...
 - identificar ...
 - diferenciar ...
@@ -29,7 +30,8 @@ Breve descrição do que será estudado a seguir.
 
 ---
 
-**Navegação**
+## Navegação
+
 - ⬅️ Aula anterior: [[]]
 - ➡️ Próxima aula: [[]]
 - 📚 Índice: [[00-indice]]

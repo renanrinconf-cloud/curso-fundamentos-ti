@@ -7,6 +7,7 @@ Este curso foi concebido para apresentar os fundamentos da Tecnologia da Informa
 ## Objetivos de Aprendizagem
 
 Ao final desta aula, o aluno deverá ser capaz de:
+
 - entender a proposta do curso
 - identificar o público-alvo
 - compreender a metodologia adotada
@@ -25,6 +26,7 @@ Será apresentado o conceito de Tecnologia da Informação e seus principais com
 
 ---
 
-**Navegação**
+### Navegação
+
 - ➡️ Próxima aula: [[02-o-que-e-ti]]
 - 📚 Índice: [[00-indice]]

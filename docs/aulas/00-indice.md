@@ -14,6 +14,7 @@
 ## Orientações ao estudante
 
 Este curso foi estruturado para:
+
 - leitura sequencial,
 - navegação não linear via índice,
 - uso no Obsidian ou diretamente no GitHub.
