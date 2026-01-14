@@ -1,6 +1,16 @@
 # O que é Tecnologia da Informação (TI)?
 
-Tecnologia da Informação é o conjunto de recursos tecnológicos utilizados para coletar, processar, armazenar e transmitir informações.
+## Contextualização
+Antes de estudar sistemas, redes ou programação, é essencial compreender o conceito de Tecnologia da Informação.
+
+## Objetivos de Aprendizagem
+Ao final desta aula, o aluno deverá ser capaz de:
+- definir o conceito de TI
+- identificar seus principais elementos
+- compreender sua aplicação no cotidiano
+
+## Conteúdo
+Tecnologia da Informação é o conjunto de recursos utilizados para coletar, processar, armazenar e transmitir informações.
 
 Ela envolve:
 - hardware
@@ -9,4 +19,8 @@ Ela envolve:
 - pessoas
 - processos
 
-Nos próximos capítulos, cada um desses elementos será detalhado.
+## Síntese
+A aula definiu o conceito de TI e apresentou seus elementos fundamentais.
+
+## Próxima Aula
+Serão apresentados os conceitos de hardware e software e suas diferenças.

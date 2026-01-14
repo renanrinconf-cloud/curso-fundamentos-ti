@@ -1,13 +1,19 @@
 # Introdução ao Curso Fundamentos de TI
 
-Este curso tem como objetivo apresentar os fundamentos da Tecnologia da Informação de forma estruturada, acessível e conceitualmente correta.
+## Contextualização
+Este curso foi concebido para apresentar os fundamentos da Tecnologia da Informação de forma estruturada e acessível.
 
-### Público-alvo
-- Iniciantes em TI
-- Estudantes
-- Profissionais de áreas não técnicas
+## Objetivos de Aprendizagem
+Ao final desta aula, o aluno deverá ser capaz de:
+- entender a proposta do curso
+- identificar o público-alvo
+- compreender a metodologia adotada
 
-### Metodologia
-- Conceitos teóricos
-- Exemplos práticos
-- Evolução gradual
+## Conteúdo
+O curso aborda conceitos fundamentais de TI, organizados de forma progressiva, partindo de noções básicas até estruturas mais complexas.
+
+## Síntese
+A aula apresentou a proposta, o público-alvo e a metodologia do curso.
+
+## Próxima Aula
+Será apresentado o conceito de Tecnologia da Informação e seus principais componentes.
