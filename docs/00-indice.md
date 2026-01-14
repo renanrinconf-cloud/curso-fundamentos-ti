@@ -1,18 +1,18 @@
-# Curso Fundamentos de TI — Índice
+# Curso Fundamentos de TI — Índice Geral
 
 ## Apresentação
-- [[01-introducao]]
+- [[01-introducao]] — Introdução ao curso
 
-## Conceitos Fundamentais
-- [[02-o-que-e-ti]]
-- [[03-hardware-software]]
+## Fundamentos de Tecnologia da Informação
+- [[02-o-que-e-ti]] — O que é Tecnologia da Informação
+- [[03-hardware-software]] — Hardware e Software
 
 ---
 
-## Organização do curso
-Este curso foi escrito em Markdown e estruturado para:
-- leitura direta no GitHub
-- estudo no Obsidian
-- futura publicação em site ou material didático
+## Orientações ao estudante
+Este curso foi estruturado para:
+- leitura sequencial,
+- navegação não linear via índice,
+- uso no Obsidian ou diretamente no GitHub.
 
-Recomenda-se seguir a ordem dos capítulos.
+Recomenda-se seguir a ordem proposta, especialmente para iniciantes.

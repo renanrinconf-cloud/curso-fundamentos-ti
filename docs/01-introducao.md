@@ -17,3 +17,9 @@ A aula apresentou a proposta, o público-alvo e a metodologia do curso.
 
 ## Próxima Aula
 Será apresentado o conceito de Tecnologia da Informação e seus principais componentes.
+
+---
+
+**Navegação**
+- ➡️ Próxima aula: [[02-o-que-e-ti]]
+- 📚 Índice: [[00-indice]]

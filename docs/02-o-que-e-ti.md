@@ -24,3 +24,10 @@ A aula definiu o conceito de TI e apresentou seus elementos fundamentais.
 
 ## Próxima Aula
 Serão apresentados os conceitos de hardware e software e suas diferenças.
+
+---
+
+**Navegação**
+- ⬅️ Aula anterior: [[01-introducao]]
+- ➡️ Próxima aula: [[03-hardware-software]]
+- 📚 Índice: [[00-indice]]

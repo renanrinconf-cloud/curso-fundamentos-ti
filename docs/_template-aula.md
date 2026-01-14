@@ -20,3 +20,10 @@ Resumo dos principais pontos abordados na aula.
 
 ## Próxima Aula
 Breve descrição do que será estudado a seguir.
+
+---
+
+**Navegação**
+- ⬅️ Aula anterior: [[]]
+- ➡️ Próxima aula: [[]]
+- 📚 Índice: [[00-indice]]
