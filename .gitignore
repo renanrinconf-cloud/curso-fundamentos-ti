@@ -1,0 +1,6 @@
+# Configurações locais do Obsidian
+.obsidian/
+
+# Arquivos temporários
+.DS_Store
+Thumbs.db
