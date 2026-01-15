@@ -13,7 +13,6 @@ Ao final desta aula, você será capaz de:
 - explicar o conceito de controle de versão;
 - diferenciar Git de GitHub.
 
-
 ---
 
 ## 1. Por que o Git existe
@@ -42,11 +41,11 @@ Isso significa que:
 
 ## 3. Git ≠ GitHub
 
-|Git|GitHub|
-|----------------|--------------------|
-|Ferramenta local|Plataforma online|
-|Controla versões|Hospeda repositórios|
-|Funciona offline|Requer internet|
+| Git              | GitHub               |
+| ---------------- | -------------------- |
+| Ferramenta local | Plataforma online    |
+| Controla versões | Hospeda repositórios |
+| Funciona offline | Requer internet      |
 
 Git pode ser usado **sem** GitHub.
 
