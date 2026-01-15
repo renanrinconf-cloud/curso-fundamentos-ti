@@ -1,13 +1,18 @@
-# Aula 03 — Introdução ao Git
+---
+title: "Introdução ao Git"
+module: "Módulo 1 — Fundamentos de Git"
+lesson: 03
+version: v0.1.0
+---
 
 ## Objetivos da aula
 
-Ao final desta aula, o aluno deverá ser capaz de:
+Ao final desta aula, você será capaz de:
 
-- Entender o problema que o Git resolve
-- Explicar o conceito de versionamento
-- Diferenciar Git de GitHub
-- Executar comandos básicos de versionamento
+- compreender o problema que o Git resolve;
+- explicar o conceito de controle de versão;
+- diferenciar Git de GitHub.
+
 
 ---
 
