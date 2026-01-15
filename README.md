@@ -7,3 +7,8 @@ Este repositório utiliza:
 - Markdown
 - Git e GitHub
 - Obsidian como base de organização do conhecimento
+
+## Estrutura do curso
+
+O curso está organizado em módulos temáticos, conforme descrito no
+[ROADMAP](docs/ROADMAP.md).
