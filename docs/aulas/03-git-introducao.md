@@ -62,3 +62,10 @@ Git pode ser usado **sem** GitHub.
 - Git e GitHub não são a mesma coisa
 - Commits registram mudanças de forma rastreável
 - Branches permitem evoluir com segurança
+
+---
+
+### Navegação
+
+- ⬅️ Aula anterior: [[02-o-que-e-ti]]
+- 📚 Índice: [[00-indice]]
